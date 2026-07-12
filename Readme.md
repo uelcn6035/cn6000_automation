@@ -17,7 +17,11 @@ Originally developed as a final-year systems project in Computer Science.
 
 ## Video Demonstration
 
+> :arrow_forward: **Watch the video on YouTube**
+
 [<img src="https://img.youtube.com/vi/8RrYqJJq8sM/maxresdefault.jpg" alt="Network automation framework video demonstration" width="720">](https://www.youtube.com/watch?v=8RrYqJJq8sM)
+
+Video link: [https://www.youtube.com/watch?v=8RrYqJJq8sM](https://www.youtube.com/watch?v=8RrYqJJq8sM)
 
 ---
 
