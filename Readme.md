@@ -41,20 +41,3 @@ The automation framework supports several operational workflows:
 • Monitoring integration for operational visibility  
 
 These workflows demonstrate how network infrastructure can be treated as a programmable system rather than a collection of manually configured devices.
-
-## Project Context
-
-This project was developed as part of a Computer Science programme at the University of East London and explores foundational ideas in network automation and infrastructure programmability.
-
-Many of the concepts explored here later informed the design philosophy behind the HybridOps platform.
-
-## Keywords
-
-Network Automation  
-Nornir  
-Scrapli  
-Napalm  
-Jinja2  
-OSPF  
-IPSec  
-Python Network Automation
