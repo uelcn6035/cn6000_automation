@@ -1,7 +1,7 @@
 ---
 
 platform: "ios"
-username: "cn6000_project_admin"
-password: "cn6000_scotland"
+username: "REPLACE_WITH_LAB_USERNAME"
+password: "REPLACE_WITH_LAB_PASSWORD"
 data:
     warning: "authorised access only"

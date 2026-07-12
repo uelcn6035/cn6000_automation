@@ -18,6 +18,15 @@ build/
 .env
 .env.*
 
+# Generated device output
+runbooks/backup_configs/
+runbooks/device_data/
+runbooks/logs/
+
+# Local inventory credentials
+inventory/defaults.local.yaml
+inventory/groups.local.yaml
+
 # OS
 .DS_Store
 Thumbs.db

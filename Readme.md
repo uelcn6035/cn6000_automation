@@ -11,6 +11,17 @@ The framework integrates Python-based automation tools with network infrastructu
 
 Originally developed as a final-year systems project in Computer Science.
 
+## Local credentials and generated output
+
+The committed inventory contains placeholders only. Replace them in a private
+local inventory before connecting to a lab. Generated configuration backups and
+device-data exports are ignored because they can contain device usernames,
+password hashes, SNMP communities and topology details.
+
+Credentials used with an earlier copy of this project should be rotated before
+the repository is shared. Removing a credential from the current tree does not
+remove it from existing Git history.
+
 ## Demo
 
 > :arrow_forward: **Watch the video on YouTube**
