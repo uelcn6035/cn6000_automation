@@ -1,12 +1,12 @@
 ---
 lagos_branch:
-    password: "cn6000_lagos"
+    password: "REPLACE_WITH_LAGOS_PASSWORD"
     
 tokyo_branch:
-    password: "cn6000_tokyo"
+    password: "REPLACE_WITH_TOKYO_PASSWORD"
 
 isp:
-    password: "cn6000_isp"
+    password: "REPLACE_WITH_ISP_PASSWORD"
 
 arista_gear:
     platform: "eos"
