@@ -24,6 +24,10 @@ remove it from existing Git history.
 
 ## Demo
 
+The [EVE-NG demonstration lab](examples/eve-ng/enterprise-wan-automation-lab.zip)
+contains the project topology and startup configurations. Device images are not
+included.
+
 > :arrow_forward: **Watch the video on YouTube**
 
 [<img src="https://img.youtube.com/vi/8RrYqJJq8sM/maxresdefault.jpg" alt="Network automation framework video demonstration" width="720">](https://www.youtube.com/watch?v=8RrYqJJq8sM)
